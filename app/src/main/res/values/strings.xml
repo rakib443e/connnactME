@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnectMe</string>
+    <string name="tagline">Private Drive-Backed Messaging</string>
+    <string name="offline_banner">You are offline. Messages are queued locally and will sync on reconnection.</string>
+    <string name="backend_not_configured">Apps Script Web App URL not configured. Tap to configure backend endpoint.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+</resources>

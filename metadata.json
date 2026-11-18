@@ -1,0 +1,6 @@
+{
+  "name": "ConnectMe",
+  "description": "ConnectMe Android messaging application backed by Google Apps Script and central Google Drive storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
